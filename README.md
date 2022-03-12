@@ -1,5 +1,4 @@
 # MBRBootloader
-A simple assembly bootloader using nasm and Intel syntax
 
 Just a small project of my bootloader, maintained in this repository to be saved
 
